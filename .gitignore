@@ -1,0 +1,7 @@
+# Nichts Unverschluesseltes darf ins Repo.
+original/
+inhalte/
+vorlage.html
+bauen.sh
+.claude/
+.DS_Store
