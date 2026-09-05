@@ -4,6 +4,7 @@ Eine Countdown-Seite auf den **30. Oktober 2026, 00:00 Uhr** (Berliner Zeit).
 Wenn der Countdown abläuft, verwandelt sich die Seite von selbst in eine
 Gratulation mit Konfetti — man muss nichts anklicken.
 
+**Online:** https://primevestconsulting.github.io/countdown-t68/
 **Losungswort für den Familienbereich: `Rita`**
 
 Widmung, Fotos und die Geschenk-Karte sind verschlüsselt. Ohne das Wort steht
@@ -73,8 +74,10 @@ git commit -m "Aktualisiert"
 git push
 ```
 
-Nach ein bis zwei Minuten ist die neue Fassung unter der GitHub-Pages-Adresse
-sichtbar.
+Nach ein bis zwei Minuten ist die neue Fassung unter
+https://primevestconsulting.github.io/countdown-t68/ sichtbar.
+Falls der Browser noch die alte Fassung zeigt: einmal hart neu laden
+(Cmd+Shift+R).
 
 **Es geht nur `index.html` ins Repo.** Die Ordner `original/` und `inhalte/`
 mit den unverschlüsselten Fotos und Texten bleiben durch `.gitignore` auf
